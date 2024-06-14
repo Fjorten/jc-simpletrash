@@ -4,11 +4,11 @@ Config.AmountToFind = math.random(1, 5) -- The range of how many items you can f
 Config.QBVersion == 'newqb' -- Just the logic of how inventory itembox is handled! "oldqb" or "newqb"
 
 Config.Trashcans = { -- The models of the trashcans you want to be searchable!
-    'prop_dumpster_02a',
+    	'prop_dumpster_02a',
 	'prop_dumpster_02b',
-    'prop_dumpster_01a',
-    'pop_cs_bin_02',
-    'prop_bin_01a',
+    	'prop_dumpster_01a',
+    	'pop_cs_bin_02',
+    	'prop_bin_01a',
 	'prop_bin_07a'
 }
 
